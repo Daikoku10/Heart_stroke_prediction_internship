@@ -1,5 +1,7 @@
 # Heart_stroke_prediction_internship
 
+![image](https://github.com/user-attachments/assets/fcb375f8-664c-4084-967a-734ec3c23695)
+
 PIE INFOCOMM Internship
 
 The main topic is prediction using machine learning technics. Machine learning is widely used now a days in many business applications like e-commerce and many more. Prediction is one of area where this machine learning used, our topic is about prediction of heart stroke by processing patient’s dataset and a data of patients to whom we need to predict the chance of occurrence of a heart stroke disease. The aim is to achieve better accuracy and to make the system more efficient so that it can predict the chances of heart stroke.
